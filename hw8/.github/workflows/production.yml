@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kfr3/hw8:latest
+          tags: kaw393939/devops_demo:latest
